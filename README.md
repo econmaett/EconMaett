@@ -51,3 +51,5 @@ libraries I'm actively working on:
 ⌚ {kantime} kolmogorov-arnold networks for time series in R via Nixtla & {modeltime}
 📊 {ggpal2} an AI {pal} assistant for data visualization
 -->
+
+You can visit my [personal website](https://econmaett.github.io/)
