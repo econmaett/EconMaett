@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+You can find me online at all these places:
+
+🏠 Personal website and blog
+👨‍👩‍👧‍👦 Family blog
+🐘 Mastodon
+🐦 Twitter
+🎥 YouTube
+💼 LinkedIn
 -->
