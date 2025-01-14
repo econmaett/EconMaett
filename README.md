@@ -21,7 +21,7 @@ Welcome to my personal GitHub account! My name is Matt and I am an economist and
 
 You can find me online at all these places:
 
-- 🏠 [personal website](https://econmaett.github.io/)
+- 🏠 [Personal Website](https://econmaett.github.io/)
 - 🦋 [BlueSky](https://bsky.app/profile/econmaett.bsky.social)
 - 🐘 [Mastodon](https://mastodon.social/@EconMaett)
 - 🐦 [Twitter](https://x.com/EconMaett)
