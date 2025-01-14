@@ -19,7 +19,7 @@ libraries I'm actively working on:
 
 Welcome to my personal GitHub account! My name is Matt and I am an economist and data scientist fluent in free open-source languages such as R, Python, and Julia.
 
-You can find me online at all these places:
+Here's where you can find me:
 
 - 🏠 [Personal Website](https://econmaett.github.io/)
 - 🦋 [BlueSky](https://bsky.app/profile/econmaett.bsky.social)
