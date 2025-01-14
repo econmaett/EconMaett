@@ -30,4 +30,4 @@ Here's where you can find me:
 - 🧵 [Threads](https://www.threads.net/@econmaett)
 - 🎥 [YouTube](https://www.youtube.com/@econmaett)
 
-
+![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
