@@ -17,7 +17,7 @@ libraries I'm actively working on:
 - 📊 {ggpal2} an AI {pal} assistant for data visualization
 -->
 
-Welcome to my personal github account! My name is Matt and I am an economist and data scientist fluent in free open-source languages such as R, Python, and Julia.
+Welcome to my personal GitHub account! My name is Matt and I am an economist and data scientist fluent in free open-source languages such as R, Python, and Julia.
 
 You can find me online at all these places:
 
