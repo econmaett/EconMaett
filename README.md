@@ -6,7 +6,7 @@
 Check out [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
 There's an [emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
-- 💼 [LinkedIn]()
+
 - 📧 [Email]()
 
 libraries I'm actively working on:
@@ -22,11 +22,14 @@ Welcome to my personal GitHub account! My name is Matt and I am an economist and
 Here's where you can find me:
 
 - 🏠 [Personal Website](https://econmaett.github.io/)
+- 🐱 [GitHub](https://github.com/econMaett/)
 - 🦋 [BlueSky](https://bsky.app/profile/econmaett.bsky.social)
 - 🐘 [Mastodon](https://mastodon.social/@EconMaett)
 - 🐦 [Twitter](https://x.com/EconMaett)
 - 🤖 [Reddit](https://www.reddit.com/user/EconMaett/)
+- ❓[Stack Overflow](https://stackoverflow.com/users/23243289/econmaett)
 - 📸 [Instagram](https://www.instagram.com/econmaett/)
 - 🧵 [Threads](https://www.threads.net/@econmaett)
 - 🎥 [YouTube](https://www.youtube.com/@econmaett)
+- 💼 [LinkedIn](www.linkedin.com/in/econmaett)
 
