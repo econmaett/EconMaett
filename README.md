@@ -23,7 +23,7 @@ Here's where you can find me:
 
 - 🏠 [Personal Website](https://econmaett.github.io/)
 - 🐱 [GitHub](https://github.com/econMaett/)
-- 🦋 [BlueSky](https://bsky.app/profile/econmaett.bsky.social)
+- 🦋 [BlueSky](https://bsky.app/@econmaett.github.io)
 - 🐘 [Mastodon](https://mastodon.social/@EconMaett)
 - 🐦 [Twitter](https://x.com/EconMaett)
 - 🤖 [Reddit](https://www.reddit.com/user/EconMaett/)
