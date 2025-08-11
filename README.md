@@ -22,11 +22,11 @@ Welcome to my personal GitHub account! My name is Matt and I am an economist and
 Here's where you can find me:
 
 - 🏠 [Personal Website](https://econmaett.github.io/)
-- 🐱 [GitHub](https://github.com/econMaett/)
+- 🐱 [GitHub](https://github.com/econmaett/)
 - 🦋 [BlueSky](https://bsky.app/@econmaett.github.io)
-- 🐘 [Mastodon](https://mastodon.social/@EconMaett)
+- 🐘 [Mastodon](https://mastodon.social/@econmaett)
 - 🐦 [Twitter](https://x.com/EconMaett)
-- 🤖 [Reddit](https://www.reddit.com/user/EconMaett/)
+- 🤖 [Reddit](https://www.reddit.com/user/econmaett/)
 - ❓[Stack Overflow](https://stackoverflow.com/users/23243289/econmaett)
 - 📸 [Instagram](https://www.instagram.com/econmaett/)
 - 🧵 [Threads](https://www.threads.net/@econmaett)
